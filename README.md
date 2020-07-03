@@ -17,8 +17,8 @@ As one would not follow any written instructions to cook the recipe, but only th
 ## How to Design an Algorithm?
 Inorder to write an algorithm, following things are needed as a pre-requisite:
 
-- The problem that is to be solved by this algorithm.
-- The constraints of the problem that must be considered while solving the problem.
-- The input to be taken to solve the problem.
-- The output to be expected when the problem the is solved.
-- The solution to this problem, in the given constraints.
+- The **problem** that is to be solved by this algorithm.
+- The **constraints** of the problem that must be considered while solving the problem.
+- The **input** to be taken to solve the problem.
+- The **output** to be expected when the problem the is solved.
+- The **solution** to this problem, in the given constraints.
