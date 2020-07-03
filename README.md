@@ -1,6 +1,6 @@
 # Algorithms
 
-## What is Algorithm? Algorithm Basics
+## What is Algorithm? 
 
 The word Algorithm means “a process or set of rules to be followed in calculations or other problem-solving operations”. Therefore Algorithm refers to a set of rules/instructions that step-by-step define how a work is to be executed upon in order to get the expected results.
 
@@ -13,3 +13,12 @@ As one would not follow any written instructions to cook the recipe, but only th
 - **Finite-ness:** The algorithm must be finite, i.e. it should not end up in an infinite loops or similar.
 - **Feasible:** The algorithm must be simple, generic and practical, such that it can be executed upon will the available resources. It must not contain some future technology, or anything.
 - **Language Independent:** The Algorithm designed must be language-independent, i.e. it must be just plain instructions that can be implemented in any language, and yet the output will be same, as expected.
+
+## How to Design an Algorithm?
+Inorder to write an algorithm, following things are needed as a pre-requisite:
+
+- The problem that is to be solved by this algorithm.
+- The constraints of the problem that must be considered while solving the problem.
+- The input to be taken to solve the problem.
+- The output to be expected when the problem the is solved.
+- The solution to this problem, in the given constraints.
